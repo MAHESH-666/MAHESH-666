@@ -10,7 +10,7 @@ I've been Learning to Code From 2 Years...! Dream is to be A Developer... and i 
 * ✉️  You can contact me at [Maheshkamalay777@gmail.com](mailto:Maheshkamalay777@gmail.com)
 * 🧠  I'm learning Full Stack Dot net development...!
 * 🤝  I'm open to collaborating on Bank application,any product based environment...
-* ⚡  i'll work with any team whose ready to work hard for development.....!
+* ⚡  i'll work with any team whose ready to work hard for development....!
 
 ### Skills
 
