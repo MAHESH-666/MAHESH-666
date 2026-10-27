@@ -166,9 +166,86 @@ A legacy ASP.NET Web API project demonstrating database-backed data operations t
 </table>
 </div>
 
-### 🧾 Other business application work
+### 🧾 Supplier Management Application
 
-In addition to the projects above, my project work has included **Supplier Application POC**, **Travel Claim workflows**, **Fuel Levy**, a **Kilometre Claim API**, and an **E-Service Registration workflow with email integration**. Some of these are internal or private projects, so their source code is not published here.
+**Proof of concept · Private source**
+
+A supplier management application organized around supplier details, contact people, classifications, banking details, grouping information, and user registration.
+
+- Supplier and supplier-detail maintenance screens
+- Separate domain models, service interfaces, and service implementations
+- Repository and Unit of Work patterns
+- Search/paging-oriented UI structure
+
+**Technology**
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
+<img src="https://img.shields.io/badge/.NET%207-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 7" />
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/AutoMapper-7B2CBF?style=flat-square" alt="AutoMapper" />
+
+### 🤖 AI Chat Application
+
+**AI integration experiment · Private source**
+
+An ASP.NET Core MVC application that integrates a conversational AI service through a dedicated service class and controller.
+
+- Chat interface in an MVC view
+- Dedicated service layer for AI-provider communication
+- Docker Compose configuration
+- Azure Web App workflow file in the repository
+
+**Technology**
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+<img src="https://img.shields.io/badge/AI%20API%20Integration-0F766E?style=flat-square" alt="AI API integration" />
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+<img src="https://img.shields.io/badge/Azure%20Web%20App-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Web App workflow" />
+
+### 🎬 Video Management Application
+
+**MVC media project · Private source**
+
+An MVC application with a video model and dedicated create, listing, and watch views.
+
+- Video creation and browsing views
+- Login and registration workflow
+- User identity and authentication components
+- Video metadata extraction package reference
+- Docker Compose configuration
+
+**Technology**
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+<img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Identity" />
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+
+### ⚙️ Generator Usage Tracking
+
+**Business utility · Private source**
+
+A .NET 8 MVC application organized around generator usage records and diesel-refill workflows.
+
+- Generator usage data and page view model
+- Diesel refill entry workflow
+- SQL Server data access
+- PDF generation package reference
+
+**Technology**
+
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/QuestPDF-64748B?style=flat-square" alt="QuestPDF" />
+
+### 🧩 Additional business workflows
+
+My project work has also included **Travel Claim**, **Fuel Levy**, a **Kilometre Claim API**, and an **E-Service Registration workflow with email integration**. These are summarized at a high level because some source code and business details are internal or private.
 
 ## 📈 GitHub at a Glance
 
