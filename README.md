@@ -1,13 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:7C3AED&text=Mahesh%20K&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=.NET%20Developer%20%7C%20Business%20Applications%20%7C%20SQL%20Server&descAlignY=60&descSize=17&animation=fadeIn" alt="Mahesh K — .NET Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:7C3AED&text=Mahesh%20K&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=.NET%20Developer%20%7C%20Azure%20%7C%20Business%20Applications%20%7C%20SQL%20Server&descAlignY=60&descSize=17&animation=fadeIn" alt="Mahesh K — .NET Developer" />
 
-### Building business applications with C#, Azure, ASP.NET Core MVC, SQL Server
+### Building business applications with C#, ASP.NET Core MVC, SQL Server & Azure
 
 <p>
-  <a href="mailto:maheshkamalay777@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mahesh" /></a>
-  <a href="https://github.com/MAHESH-666?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://github.com/MAHESH-666/ServiceRequestTracker"><img src="https://img.shields.io/badge/VIEW-Featured%20Project-2563EB?style=for-the-badge&logo=dotnet&logoColor=white" alt="View featured project" /></a>
+  <a href="mailto:maheshkamalay777@gmail.com">✉️ Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/MAHESH-666?tab=repositories">🗂️ All Repositories</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/MAHESH-666/ServiceRequestTracker">🚀 Featured Project</a>
 </p>
 
 📍 Hyderabad, Telangana, India
