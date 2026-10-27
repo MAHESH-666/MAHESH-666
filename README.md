@@ -5,9 +5,9 @@
 ### Building business applications with C#, ASP.NET Core MVC, SQL Server & Azure
 
 <p>
-  <a href="mailto:maheshkamalay777@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Mahesh" /></a>
-  <a href="https://github.com/MAHESH-666?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-All%20Repositories-24292F?style=flat-square&logo=github&logoColor=white" alt="All repositories" /></a>
-  <a href="https://leo-ai-app.onrender.com/"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-Live%20AI%20Chat-0F766E?style=flat-square" alt="Open the live AI Chat application" /></a>
+  <a href="mailto:maheshkamalay777@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-0d6efd?style=flat-square" alt="Email Mahesh" /></a>
+  <a href="https://github.com/MAHESH-666?tab=repositories"><img src="https://img.shields.io/badge/-All%20Repositories-6c757d?style=flat-square" alt="All repositories" /></a>
+  <a href="https://leo-ai-app.onrender.com/"><img src="https://img.shields.io/badge/-Live%20AI%20Chat-198754?style=flat-square" alt="Open the live AI Chat application" /></a>
 </p>
 
 📍 Hyderabad, Telangana, India
@@ -139,7 +139,7 @@ An ASP.NET Core MVC chat application that streams responses from an AI model thr
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render hosting" />
 
 <p>
-  <a href="https://leo-ai-app.onrender.com/"><img src="https://img.shields.io/badge/TRY%20LIVE%20DEMO-Open%20Leo%20AI-0F766E?style=flat-square" alt="Try the live Leo AI demo" /></a>
+  <a href="https://leo-ai-app.onrender.com/"><img src="https://img.shields.io/badge/-Try%20Live%20Demo-198754?style=flat-square" alt="Try the live Leo AI demo" /></a>
 </p>
 
 <sub>Live demo link supplied by the project owner; availability may depend on hosting status.</sub>
@@ -167,7 +167,7 @@ A WPF desktop assistant that listens for predefined voice commands and responds 
 <img src="https://img.shields.io/badge/System.Speech-2563EB?style=flat-square" alt="System Speech" />
 
 <p>
-  <a href="https://github.com/MAHESH-666/JARVIS___APP"><img src="https://img.shields.io/badge/VIEW%20SOURCE-Open%20on%20GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="View JARVIS source code" /></a>
+  <a href="https://github.com/MAHESH-666/JARVIS___APP"><img src="https://img.shields.io/badge/-View%20Source-212529?style=flat-square" alt="View JARVIS source code" /></a>
 </p>
 
 </td>
@@ -221,7 +221,7 @@ A .NET 8 MVC application for managing service requests through a database-backed
 <img src="https://img.shields.io/badge/Rotativa%20PDF-64748B?style=flat-square" alt="Rotativa PDF" />
 
 <p>
-  <a href="https://github.com/MAHESH-666/ServiceRequestTracker"><img src="https://img.shields.io/badge/VIEW%20SOURCE-Open%20on%20GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="View Service Request Tracker source" /></a>
+  <a href="https://github.com/MAHESH-666/ServiceRequestTracker"><img src="https://img.shields.io/badge/-View%20Source-212529?style=flat-square" alt="View Service Request Tracker source" /></a>
 </p>
 
 </td>
@@ -232,7 +232,7 @@ A .NET 8 MVC application for managing service requests through a database-backed
 ## 🔎 More Projects & Technical Exploration
 
 - ⚙️ **Generator Usage Tracking** — .NET 8 MVC application for generator runtime/usage records, diesel-refill logging, remaining-fuel calculations, and PDF reports. Uses EF Core, SQL Server, and QuestPDF. *(Private source.)*
-- 🔌 **ASP.NET Web API Data Operations** — legacy ASP.NET Web API / .NET Framework 4.7.2 project using Entity Framework 6 for database-backed data operations. <a href="https://github.com/MAHESH-666/Web-Api-"><img src="https://img.shields.io/badge/VIEW%20SOURCE-GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="View ASP.NET Web API source" /></a>
+- 🔌 **ASP.NET Web API Data Operations** — legacy ASP.NET Web API / .NET Framework 4.7.2 project using Entity Framework 6 for database-backed data operations. <a href="https://github.com/MAHESH-666/Web-Api-"><img src="https://img.shields.io/badge/-View%20Source-212529?style=flat-square" alt="View ASP.NET Web API source" /></a>
 - 🎬 **Video Management Application** — MVC video listing, create/watch views, and account workflows; project structure includes ASP.NET Identity, EF Core, and Docker Compose. *(Private source.)*
 - 🧩 **Other business work** — Travel Claim, Fuel Levy, Kilometre Claim API, and E-Service Registration with email integration. Some implementation details and source code remain private.
 
@@ -241,9 +241,9 @@ A .NET 8 MVC application for managing service requests through a database-backed
 The hosted statistics cards were removed so this section stays clean when a third-party stats service cannot fetch commit data. Explore activity and repositories directly on GitHub instead.
 
 <div align="center">
-  <a href="https://github.com/MAHESH-666?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-All%20Repositories-24292F?style=flat-square&logo=github&logoColor=white" alt="Explore all repositories" /></a>
-  <a href="https://github.com/MAHESH-666?tab=overview"><img src="https://img.shields.io/badge/VIEW%20ACTIVITY-GitHub%20Profile-2563EB?style=flat-square&logo=github&logoColor=white" alt="View GitHub profile activity" /></a>
-  <a href="https://github.com/MAHESH-666/ServiceRequestTracker"><img src="https://img.shields.io/badge/START%20HERE-Service%20Request%20Tracker-0F766E?style=flat-square&logo=dotnet&logoColor=white" alt="Start with Service Request Tracker" /></a>
+  <a href="https://github.com/MAHESH-666?tab=repositories"><img src="https://img.shields.io/badge/-Explore%20Projects-6c757d?style=flat-square" alt="Explore all repositories" /></a>
+  <a href="https://github.com/MAHESH-666?tab=overview"><img src="https://img.shields.io/badge/-View%20Activity-0d6efd?style=flat-square" alt="View GitHub profile activity" /></a>
+  <a href="https://github.com/MAHESH-666/ServiceRequestTracker"><img src="https://img.shields.io/badge/-Start%20Here-198754?style=flat-square" alt="Start with Service Request Tracker" /></a>
 </div>
 
 ## 🎯 What I Care About
@@ -258,10 +258,10 @@ The hosted statistics cards were removed so this section stays clean when a thir
 
 <div align="center">
 
-<a href="mailto:maheshkamalay777@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Mahesh-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Mahesh" /></a>
-<a href="https://github.com/MAHESH-666"><img src="https://img.shields.io/badge/GITHUB-Profile-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://github.com/MAHESH-666?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-All%20Repositories-2563EB?style=flat-square&logo=github&logoColor=white" alt="All repositories" /></a>
-<a href="https://leo-ai-app.onrender.com/"><img src="https://img.shields.io/badge/DEMO-Live%20AI%20Chat-0F766E?style=flat-square" alt="Live AI chat demo" /></a>
+<a href="mailto:maheshkamalay777@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Mahesh-0d6efd?style=flat-square" alt="Email Mahesh" /></a>
+<a href="https://github.com/MAHESH-666"><img src="https://img.shields.io/badge/-GitHub%20Profile-212529?style=flat-square" alt="GitHub profile" /></a>
+<a href="https://github.com/MAHESH-666?tab=repositories"><img src="https://img.shields.io/badge/-All%20Projects-6c757d?style=flat-square" alt="All repositories" /></a>
+<a href="https://leo-ai-app.onrender.com/"><img src="https://img.shields.io/badge/-Live%20AI%20Demo-198754?style=flat-square" alt="Live AI chat demo" /></a>
 
 *Focused on practical software, continuous learning, and shipping better solutions.*
 
