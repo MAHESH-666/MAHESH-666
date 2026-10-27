@@ -37,12 +37,12 @@ I'm a .NET developer focused on building practical, database-driven applications
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,jquery,html,css,bootstrap,git,github&theme=dark" alt="C sharp, .NET, Visual Studio, JavaScript, jQuery, HTML, CSS, Bootstrap, Git and GitHub" />
 
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ADO.NET" />
-  <img src="https://img.shields.io/badge/AJAX-2563EB?style=flat-square" alt="AJAX" />
-  <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=windows&logoColor=white" alt="IIS" />
+  <img src="./assets/technology-buttons/aspnet-core-mvc.svg" alt="ASP.NET Core MVC" />
+  <img src="./assets/technology-buttons/entity-framework-core.svg" alt="Entity Framework Core" />
+  <img src="./assets/technology-buttons/sql-server.svg" alt="SQL Server" />
+  <img src="./assets/technology-buttons/ado-net.svg" alt="ADO.NET" />
+  <img src="./assets/technology-buttons/ajax.svg" alt="AJAX" />
+  <img src="./assets/technology-buttons/iis.svg" alt="IIS" />
 </p>
 
 **Additional tools and areas explored**
@@ -77,12 +77,12 @@ A maintenance-management system for equipment and IT assets, built around schedu
 
 **Technology**
 
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
-<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/EPPlus%20%7C%20Open%20XML-217346?style=flat-square" alt="EPPlus and Open XML" />
-<img src="https://img.shields.io/badge/QuestPDF%20%7C%20Rotativa-64748B?style=flat-square" alt="PDF reporting libraries" />
+<img src="./assets/technology-buttons/dotnet-8.svg" alt=".NET 8" />
+<img src="./assets/technology-buttons/aspnet-core-mvc.svg" alt="ASP.NET Core MVC" />
+<img src="./assets/technology-buttons/ef-core.svg" alt="Entity Framework Core" />
+<img src="./assets/technology-buttons/sql-server.svg" alt="SQL Server" />
+<img src="./assets/technology-buttons/epplus-open-xml.svg" alt="EPPlus and Open XML" />
+<img src="./assets/technology-buttons/questpdf-rotativa.svg" alt="PDF reporting libraries" />
 
 <sub>Internal project — source code is intentionally not linked.</sub>
 
@@ -104,12 +104,12 @@ A ticket-management application for IT and maintenance service workflows.
 
 **Technology**
 
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
-<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/ClosedXML-217346?style=flat-square" alt="ClosedXML" />
-<img src="https://img.shields.io/badge/Rotativa%20PDF-64748B?style=flat-square" alt="Rotativa PDF" />
+<img src="./assets/technology-buttons/dotnet-8.svg" alt=".NET 8" />
+<img src="./assets/technology-buttons/aspnet-core-mvc.svg" alt="ASP.NET Core MVC" />
+<img src="./assets/technology-buttons/ef-core.svg" alt="Entity Framework Core" />
+<img src="./assets/technology-buttons/sql-server.svg" alt="SQL Server" />
+<img src="./assets/technology-buttons/closedxml.svg" alt="ClosedXML" />
+<img src="./assets/technology-buttons/rotativa-pdf.svg" alt="Rotativa PDF" />
 
 <sub>Internal project — source code is intentionally not linked.</sub>
 
@@ -132,11 +132,11 @@ An ASP.NET Core MVC chat application that streams responses from an AI model thr
 
 **Technology**
 
-<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-<img src="https://img.shields.io/badge/OpenRouter%20%7C%20DeepSeek-0F766E?style=flat-square" alt="OpenRouter and DeepSeek" />
-<img src="https://img.shields.io/badge/Server--Sent%20Events-2563EB?style=flat-square" alt="Server-Sent Events" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render hosting" />
+<img src="./assets/technology-buttons/aspnet-core-mvc.svg" alt="ASP.NET Core MVC" />
+<img src="./assets/technology-buttons/dotnet-8.svg" alt=".NET 8" />
+<img src="./assets/technology-buttons/openrouter-deepseek.svg" alt="OpenRouter and DeepSeek" />
+<img src="./assets/technology-buttons/server-sent-events.svg" alt="Server-Sent Events" />
+<img src="./assets/technology-buttons/render.svg" alt="Render hosting" />
 
 <p>
   <a href="https://leo-ai-app.onrender.com/"><img src="./assets/readme-buttons/try-live-demo.svg" alt="Try the live Leo AI demo" /></a>
@@ -161,10 +161,10 @@ A WPF desktop assistant that listens for predefined voice commands and responds 
 
 **Technology**
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" />
-<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Presentation Foundation" />
-<img src="https://img.shields.io/badge/.NET%20Framework%204.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Framework 4.7.2" />
-<img src="https://img.shields.io/badge/System.Speech-2563EB?style=flat-square" alt="System Speech" />
+<img src="./assets/technology-buttons/c-sharp.svg" alt="C sharp" />
+<img src="./assets/technology-buttons/wpf.svg" alt="Windows Presentation Foundation" />
+<img src="./assets/technology-buttons/dotnet-framework-472.svg" alt=".NET Framework 4.7.2" />
+<img src="./assets/technology-buttons/system-speech.svg" alt="System Speech" />
 
 <p>
   <a href="https://github.com/MAHESH-666/JARVIS___APP"><img src="./assets/readme-buttons/view-source.svg" alt="View JARVIS source code" /></a>
@@ -190,11 +190,11 @@ A structured supplier application covering supplier records and supporting busin
 
 **Technology**
 
-<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
-<img src="https://img.shields.io/badge/.NET%207-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 7" />
-<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/AutoMapper-7B2CBF?style=flat-square" alt="AutoMapper" />
+<img src="./assets/technology-buttons/aspnet-core-mvc.svg" alt="ASP.NET Core MVC" />
+<img src="./assets/technology-buttons/dotnet-7.svg" alt=".NET 7" />
+<img src="./assets/technology-buttons/ef-core.svg" alt="Entity Framework Core" />
+<img src="./assets/technology-buttons/sql-server.svg" alt="SQL Server" />
+<img src="./assets/technology-buttons/automapper.svg" alt="AutoMapper" />
 
 <sub>Internal/POC source is not linked here.</sub>
 
@@ -214,11 +214,11 @@ A .NET 8 MVC application for managing service requests through a database-backed
 
 **Technology**
 
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core MVC" />
-<img src="https://img.shields.io/badge/EF%20Core%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core 8" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Rotativa%20PDF-64748B?style=flat-square" alt="Rotativa PDF" />
+<img src="./assets/technology-buttons/dotnet-8.svg" alt=".NET 8" />
+<img src="./assets/technology-buttons/aspnet-core-mvc.svg" alt="ASP.NET Core MVC" />
+<img src="./assets/technology-buttons/ef-core-8.svg" alt="Entity Framework Core 8" />
+<img src="./assets/technology-buttons/sql-server.svg" alt="SQL Server" />
+<img src="./assets/technology-buttons/rotativa-pdf.svg" alt="Rotativa PDF" />
 
 <p>
   <a href="https://github.com/MAHESH-666/ServiceRequestTracker"><img src="./assets/readme-buttons/view-source.svg" alt="View Service Request Tracker source" /></a>
