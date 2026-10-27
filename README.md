@@ -229,23 +229,6 @@ A .NET 8 MVC application for managing service requests through a database-backed
 </table>
 </div>
 
-## 🔎 More Projects & Technical Exploration
-
-- ⚙️ **Generator Usage Tracking** — .NET 8 MVC application for generator runtime/usage records, diesel-refill logging, remaining-fuel calculations, and PDF reports. Uses EF Core, SQL Server, and QuestPDF. *(Private source.)*
-- 🔌 **ASP.NET Web API Data Operations** — legacy ASP.NET Web API / .NET Framework 4.7.2 project using Entity Framework 6 for database-backed data operations. <a href="https://github.com/MAHESH-666/Web-Api-"><img src="./assets/readme-buttons/view-source.svg" alt="View ASP.NET Web API source" /></a>
-- 🎬 **Video Management Application** — MVC video listing, create/watch views, and account workflows; project structure includes ASP.NET Identity, EF Core, and Docker Compose. *(Private source.)*
-- 🧩 **Other business work** — Travel Claim, Fuel Levy, Kilometre Claim API, and E-Service Registration with email integration. Some implementation details and source code remain private.
-
-## 📈 GitHub at a Glance
-
-The hosted statistics cards were removed so this section stays clean when a third-party stats service cannot fetch commit data. Explore activity and repositories directly on GitHub instead.
-
-<div align="center">
-  <a href="https://github.com/MAHESH-666?tab=repositories"><img src="./assets/readme-buttons/explore-projects.svg" alt="Explore all repositories" /></a>
-  <a href="https://github.com/MAHESH-666?tab=overview"><img src="./assets/readme-buttons/view-activity.svg" alt="View GitHub profile activity" /></a>
-  <a href="https://github.com/MAHESH-666/ServiceRequestTracker"><img src="./assets/readme-buttons/start-here.svg" alt="Start with Service Request Tracker" /></a>
-</div>
-
 ## 🎯 What I Care About
 
 - ✅ Writing readable, maintainable C# code
