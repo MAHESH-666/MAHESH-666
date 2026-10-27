@@ -229,6 +229,89 @@ A .NET 8 MVC application for managing service requests through a database-backed
 </table>
 </div>
 
+## 🌟 Developer Milestones
+
+<sub>These are portfolio milestones from my development work, not official GitHub-issued achievement badges.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>01 · Master-Driven PM Scheduling</strong><br />
+Built preventive-maintenance scheduling around equipment master dates and buffer-based due-date tracking in an ASP.NET Core MVC application.
+
+</td>
+<td width="50%" valign="top">
+
+<strong>02 · Configurable PM & IT Notifications</strong><br />
+Implemented reminder settings for run time and advance-notice days, with scheduled PM and IT notification emails.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>03 · PM Execution & Review Workflows</strong><br />
+Worked on execution records, checklist association, completion details, review/approval steps, and audit-history screens.
+
+</td>
+<td width="50%" valign="top">
+
+<strong>04 · Audit Trails & Archive Management</strong><br />
+Added historical tracking and archive-oriented database workflows to support traceability and reduce clutter in operational tables.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>05 · Helpdesk Ticket Lifecycle</strong><br />
+Developed ticketing workflows for assignment, status, priorities, categories, teams, SLA tracking, notifications, and exports.
+
+</td>
+<td width="50%" valign="top">
+
+<strong>06 · Linked Service Tickets</strong><br />
+Worked on parent/child ticket relationships so related requests can be linked and their resolution dependencies tracked.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>07 · Database-Driven .NET Applications</strong><br />
+Built MVC features with SQL Server and Entity Framework Core, including database-first models, validations, queries, and stored-procedure integrations.
+
+</td>
+<td width="50%" valign="top">
+
+<strong>08 · Reports & File-Based Data Workflows</strong><br />
+Integrated spreadsheet and PDF capabilities using libraries including EPPlus, Open XML, ClosedXML, Rotativa, and QuestPDF where applicable.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>09 · Streaming AI Chat</strong><br />
+Built Leo AI with ASP.NET Core MVC, OpenRouter/DeepSeek integration, and streaming responses; a live demo is hosted on Render.
+
+<br /><a href="https://leo-ai-app.onrender.com/">Open Leo AI demo →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>10 · Windows Voice Assistant</strong><br />
+Created a C# WPF desktop assistant using System.Speech for voice commands and spoken responses.
+
+<br /><a href="https://github.com/MAHESH-666/JARVIS___APP">View JARVIS source →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 What I Care About
 
 - ✅ Writing readable, maintainable C# code
