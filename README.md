@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:7C3AED&text=Mahesh%20K&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=.NET%20Developer%20%7C%20Business%20Applications%20%7C%20SQL%20Server&descAlignY=60&descSize=17&animation=fadeIn" alt="Mahesh K — .NET Developer" />
 
-### Building business applications with C#, ASP.NET Core MVC, and SQL Server
+### Building business applications with C#, Azure, ASP.NET Core MVC, SQL Server
 
 <p>
   <a href="mailto:maheshkamalay777@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mahesh" /></a>
